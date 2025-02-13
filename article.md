@@ -1,8 +1,7 @@
 # Pakistan Home Solution Ensures Your Solar Panels Stay Efficient And Spotless With Eco-Friendly Cleaning Methods, Advanced Technology, And Expert Care, Helping You Save Energy And Money
 
 <p>
-<img
-      style="border: 1px solid rgb(199, 199, 199); max-width: 900px;"
+<img style="border: 1px solid rgb(199, 199, 199); max-width: 900px;"
       alt=""
       border="0"
       data-original-height="962"
